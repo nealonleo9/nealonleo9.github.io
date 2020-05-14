@@ -1,4 +1,5 @@
 # --- Basic options --- #
+theme: jekyll-theme-so-simple
 
 # Name of website
 title: My website

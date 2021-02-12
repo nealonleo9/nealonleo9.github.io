@@ -1,10 +1,10 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: My Website
 
 # Short description of your site
-description: My portfolio website
+description: My Data Science Portfolio Website
 
 # Your name to show in the footer
 author: Leo Nealon
@@ -25,7 +25,7 @@ navbar-links:
 avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour here.
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -38,11 +38,12 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: nealonleo9@gmail.com
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  rss: true
+  email: nealonleo@aol.com
+#  facebook: deanattali
+  github: nealonleo9
+  twitter: leo_nealon
+#  linkdin: 
+#  rss: true
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -68,7 +69,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "leonealon.com"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
